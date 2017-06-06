@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp230.ckpt"
+all_model_checkpoint_paths: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp50.ckpt"
+all_model_checkpoint_paths: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp100.ckpt"
+all_model_checkpoint_paths: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp120.ckpt"
+all_model_checkpoint_paths: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp140.ckpt"
+all_model_checkpoint_paths: "C:/cygwin/home/osboxes/NetResults/hollows/modelckp230.ckpt"
